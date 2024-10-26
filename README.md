@@ -1,4 +1,4 @@
-# AWS Continuous Integration Demo
+# AWS Continuous Integration and Continuous Deployment Demo using the aws managed services 
 
 ## Set Up GitHub Repository
 
